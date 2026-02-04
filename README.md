@@ -10,21 +10,36 @@ Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e prá
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### 🛠 Tech Stacks
 
-**Frontend & Mobile**
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 </p>
 
-**Backend & Databases**
+**Mobile**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,cpp,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android,swift" />
 </p>
 
-**DevOps, Cloud & Tools**
+**Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,maven,spring,js,nodejs,npm,nestjs,py,kafka,rabbitmq" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,dynamodb" />
+</p>
+
+**DevOps & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,powershell" />
+</p>
+
+**Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,eclipse,idea,androidstudio,postman,prometheus,md,discord,ps" />
 </p>
 
 ---
