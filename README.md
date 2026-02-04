@@ -30,10 +30,10 @@ Engenheiro de Software Pleno especializado em sistemas escaláveis, Nuvem (AWS) 
 ---
 
 ### 📈 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=henri-ralmeida&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri-ralmeida&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em" />
-</p>
+
+![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=henri-ralmeida&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henri-ralmeida&layout=compact&theme=radical)
 
 ---
 
