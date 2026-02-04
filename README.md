@@ -39,4 +39,4 @@ Engenheiro de Software Pleno especializado em sistemas escaláveis, Nuvem (AWS) 
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-ralmeida/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henri.ralmeida@protonmail.com)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:henri.ralmeida@protonmail.com)
