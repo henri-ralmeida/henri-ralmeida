@@ -1,6 +1,6 @@
 # Olá, eu sou o Henrique! 👋
 
-Engenheiro de Software Pleno especializado em sistemas escaláveis, Nuvem (AWS) e práticas DevOps. Atualmente focado no ecossistema .NET, Spring Boot e cursando Pós em Full Stack na FIAP.
+Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e práticas DevOps. Atualmente focado no ecossistema .NET, Spring Boot e cursando Pós em Full Stack na FIAP.
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando com APIs em **.NET 9** e microsserviços **Java Spring Boot**.
