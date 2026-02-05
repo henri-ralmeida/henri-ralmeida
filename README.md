@@ -23,14 +23,14 @@ Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e prá
   <img src="https://skillicons.dev/icons?i=kotlin,swift" />
 </p>
 
-**Languages**
+**Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py" />
 </p>
 
 **Frameworks & Runtimes**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,maven,nodejs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,maven,nodejs,express,nestjs" />
 </p>
 
 **Databases**
