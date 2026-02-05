@@ -4,9 +4,10 @@ Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e prá
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando com APIs em **.NET 9** e microsserviços **Java Spring Boot**.
-- 📱 Desenvolvendo soluções mobile nativas com **Kotlin**.
-- ⚙️ Experiência com orquestração de containers (**Docker & Kubernetes**) e infraestrutura **AWS**.
-- ⚡ Foco em alta performance e resiliência.
+- 📱 Desenvolvendo soluções mobile nativas com **Kotlin (Jetpack Compose)**.
+- ⚙️ Experiência com nuvem na infraestrutura **AWS**
+- 👁️ Observability com ferramentas atuais do mercado como **DataDog, Splunk, Grafana, CloudWatch, AppDynamics, Prometheus**.
+- ⚡ Foco em alta performance e resiliência com orquestração de containers **(Docker & Kubernetes)**.
 
 ---
 
@@ -19,12 +20,17 @@ Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e prá
 
 **Mobile**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,swift" />
+  <img src="https://skillicons.dev/icons?i=kotlin,swift" />
 </p>
 
-**Backend**
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,maven,spring,js,nodejs,npm,nestjs,py,kafka,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts" />
+</p>
+
+**Frameworks & Runtimes**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,maven,nodejs,nestjs" />
 </p>
 
 **Databases**
@@ -32,14 +38,29 @@ Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e prá
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,dynamodb" />
 </p>
 
+**Messaging & Streaming**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+</p>
+
 **DevOps & Cloud**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,powershell" />
 </p>
 
-**Tools**
+**Development & IDEs**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,eclipse,idea,androidstudio,postman,prometheus,md,discord,ps" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio," />
+</p>
+
+**Version Control & Collaboration**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+</p>
+
+**Monitoring & Utils**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,prometheus,md" />
 </p>
 
 ---
