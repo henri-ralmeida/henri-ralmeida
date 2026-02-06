@@ -20,7 +20,7 @@ Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e prá
 
 **Mobile**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=kotlin" />
 </p>
 
 **Backend**
