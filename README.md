@@ -1,13 +1,17 @@
 # Olá, eu sou o Henrique! 👋
 
-Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e práticas DevOps. Atualmente focado no ecossistema .NET, Spring Boot e cursando Pós em Full Stack na FIAP.
+Senior Full-Stack Software Engineer and hands-on Technical Lead with strong experience in scalable systems, Cloud (AWS), DevOps practices, automation, and AI-assisted software development. Currently focused on the .NET ecosystem, JavaScript/TypeScript, Node.js, cloud-native architectures, and pursuing a Postgraduate Degree in Full Stack Development at FIAP.
 
-### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando com APIs em **.NET 9** e microsserviços **Java Spring Boot**.
-- 📱 Desenvolvendo soluções mobile nativas com **Kotlin (Jetpack Compose)**.
-- ⚙️ Experiência com nuvem na infraestrutura **AWS**
-- 👁️ Observability com ferramentas atuais do mercado como **DataDog, Splunk, Grafana, CloudWatch, AppDynamics, Prometheus**.
-- ⚡ Foco em alta performance e resiliência com orquestração de containers **(Docker & Kubernetes)**.
+### 🚀 About Me
+
+- 🔭 Currently working with backend and full-stack applications using **C#/.NET, JavaScript, TypeScript, Node.js, PostgreSQL, REST APIs, RabbitMQ, and webhooks**.
+- 🧠 Strong focus on **AI-assisted software development**, working with LLM tooling, coding agents, prompt engineering, workflow design, debugging, prototyping, and technical research.
+- ☁️ Hands-on experience with **AWS**, including Lambda, API Gateway, DynamoDB, S3, ECS, and EKS, as well as Infrastructure as Code with **Terraform and CloudFormation**.
+- ⚙️ Experience with automation and integrations using **n8n**, RPA workflows, APIs, and internal business processes.
+- 🐳 Focused on high performance, scalability, and resilience using **Docker, Kubernetes, Linux, CI/CD, and distributed architectures**.
+- 👁️ Observability and monitoring experience with **Datadog, Splunk, Grafana, CloudWatch, AppDynamics, and Prometheus**.
+- 🧩 Hands-on Technical Lead, contributing to **solution architecture, technical specifications, project design, implementation decisions, troubleshooting, and team guidance**.
+- 🎓 Currently pursuing a **Postgraduate Degree in Full Stack Development at FIAP**.
 
 ---
 
@@ -65,7 +69,7 @@ Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e prá
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=henri-ralmeida&show_icons=true&theme=radical)
 
@@ -73,6 +77,6 @@ Engenheiro de Software especializado em sistemas escaláveis, Nuvem (AWS) e prá
 
 ---
 
-### 📫 Como me encontrar
+### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-ralmeida/) 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:henri.ralmeida@protonmail.com)
