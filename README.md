@@ -1,4 +1,4 @@
-# Olá, eu sou o Henrique! 👋
+# Hi, I'm Henrique! 👋
 
 Senior Full-Stack Software Engineer and hands-on Technical Lead with strong experience in scalable systems, Cloud (AWS), DevOps practices, automation, and AI-assisted software development. Currently focused on the .NET ecosystem, JavaScript/TypeScript, Node.js, cloud-native architectures, and pursuing a Postgraduate Degree in Full Stack Development at FIAP.
 
@@ -15,25 +15,16 @@ Senior Full-Stack Software Engineer and hands-on Technical Lead with strong expe
 
 ---
 
-## Projetos públicos
+## Public Projects
 
-| Projeto | O que você encontra | Tecnologias |
+| Project | What it does | Technologies |
 | --- | --- | --- |
-| [Blog EducaMais](https://github.com/henri-ralmeida/blog-educamais-mobile) | Blog educacional com leitura pública e administração por professores | React Native, Expo, Express, Prisma, PostgreSQL |
-| [DataAgrin Mobile](https://github.com/henri-ralmeida/data-agrin-mobile) | Tarefas agrícolas, registro de atividades e consulta de clima | Kotlin, Jetpack Compose, Room, Firebase |
-| [Assembleia Votação](https://github.com/henri-ralmeida/assembleia-votacao) | Pautas, sessões com prazo e apuração de votos | Java, Spring Boot, H2 |
-| [Locadora de Jogos](https://github.com/henri-ralmeida/locadora-jogos) | Catálogo de jogos com autenticação JWT | Java, Spring Security, MySQL, Flyway |
+| [Blog EducaMais](https://github.com/henri-ralmeida/blog-educamais-mobile) | Educational blog with public reading and teacher administration | React Native, Expo, Express, Prisma, PostgreSQL |
+| [DataAgrin Mobile](https://github.com/henri-ralmeida/data-agrin-mobile) | Agricultural task management, activity logs, and weather forecasts | Kotlin, Jetpack Compose, Room, Firebase |
+| [Assembly Voting](https://github.com/henri-ralmeida/assembleia-votacao) | Voting topics, timed sessions, and vote tallying | Java, Spring Boot, H2 |
+| [Game Rental](https://github.com/henri-ralmeida/locadora-jogos) | Game catalog with JWT authentication | Java, Spring Security, MySQL, Flyway |
 
-Os READMEs apresentam o escopo, as instruções de execução e os limites de cada projeto.
-
-## Áreas de atuação
-
-- **Backend e integrações:** APIs REST, PostgreSQL, RabbitMQ, webhooks e sistemas distribuídos.
-- **Cloud e infraestrutura:** AWS Lambda, API Gateway, DynamoDB, S3, ECS e EKS; Terraform e CloudFormation.
-- **Entrega e operação:** Docker, Kubernetes, Linux, CI/CD e observabilidade.
-- **Automação:** n8n, RPA e integração de processos internos.
-- **Desenvolvimento assistido por IA:** agentes de código, ferramentas de LLM, prompts, desenho de fluxos, depuração e prototipação.
-- **Liderança técnica:** especificações, desenho de soluções, decisões de implementação e apoio ao time.
+Each repository README covers its scope, setup instructions, and current limitations.
 
 ---
 
@@ -93,9 +84,9 @@ Os READMEs apresentam o escopo, as instruções de execução e os limites de ca
 
 ### 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=henri-ralmeida&show_icons=true&theme=radical)
+![GitHub statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=henri-ralmeida&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henri-ralmeida&layout=compact&theme=radical)
+![Most used languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henri-ralmeida&layout=compact&theme=radical)
 
 ---
 
