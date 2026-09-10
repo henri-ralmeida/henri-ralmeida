@@ -19,6 +19,7 @@ Senior Full-Stack Software Engineer and hands-on Technical Lead with strong expe
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
+| [Prumo](https://github.com/henri-ralmeida/prumo) | Evidence-driven task orchestration with PO First for software, data, automation and migrations; supports Claude Code, Kiro and Codex | Node.js, JavaScript, npm / Bun |
 | [Blog EducaMais](https://github.com/henri-ralmeida/blog-educamais-mobile) | Educational blog with public reading and teacher administration | React Native, Expo, Express, Prisma, PostgreSQL |
 | [DataAgrin Mobile](https://github.com/henri-ralmeida/data-agrin-mobile) | Agricultural task management, activity logs, and weather forecasts | Kotlin, Jetpack Compose, Room, Firebase |
 | [Assembly Voting](https://github.com/henri-ralmeida/assembleia-votacao) | Voting topics, timed sessions, and vote tallying | Java, Spring Boot, H2 |
